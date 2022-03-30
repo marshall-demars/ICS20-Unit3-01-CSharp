@@ -18,7 +18,7 @@ class Program
         // input
         Console.WriteLine("This program finds the area of a trapezoid.");
         Console.WriteLine("");
-        Console.WriteLine("the formula is: [(a + b) / 2] * h");
+        Console.WriteLine("the formula is: [(a + b) / 2] x h");
         Console.WriteLine("");
         Console.WriteLine("please enter the measurements (m)");
         Console.WriteLine("");
