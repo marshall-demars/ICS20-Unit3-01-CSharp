@@ -36,7 +36,6 @@ class Program
         // output
         Console.WriteLine("");
         Console.WriteLine("The area of the trapezoid is, " + area.ToString("0.00") + " m²");
-        
         Console.WriteLine("\nDone.");
     }
 }
